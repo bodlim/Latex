@@ -1,2 +1,2 @@
 # Latex
-Latex syntax for mathematical symbols
+Summary of Latex syntax
